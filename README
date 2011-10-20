@@ -1,0 +1,5 @@
+The mod_geoip module for ProFTPD uses the MaxMind GeoIP library to
+look up geographic information on connecting clients, and to provide
+ACLs based on that geographic information.
+
+For further module documentation, see mod_geoip.html.
